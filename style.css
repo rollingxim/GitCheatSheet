@@ -42,3 +42,14 @@ table {
     margin: 20px auto;
     background: white;
 }
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #cbdcf2;
+    font-weight: bold;
+}
