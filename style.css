@@ -26,3 +26,7 @@ a.foo {
   text-decoration-color: white;
   color: white;
 }
+
+body {
+    background-color: #f4f4f9;
+}
